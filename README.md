@@ -1,6 +1,12 @@
 # 💫 About Me:
 👋 About Me<br><br>🎓 ECE Student @ IIIT Allahabad — A first-year B.Tech student passionate about Electronics & Communication Engineering, software development, and exploring the intersection of code, circuits, and technology.<br><br>💻 Developer & Problem Solver — I work with C, Python, HTML, CSS, and JavaScript, building websites, interactive web applications, and useful tools from concept to deployment. I enjoy turning ideas into functional, real-world solutions.<br><br>🚀 Founder, CEO & Director @ SPICEN TECHNOLOGIES — Building technology solutions under the SPICEN GROUP ecosystem, with a focus on web platforms, custom dashboards, software architecture, data automation, and ECE engineering. My vision is to bridge software with real-world hardware and communication technologies.<br><br>⚡ An Engineer at Heart — Curious about how things work, from software systems and application logic to electronics, microcontrollers, and semiconductors. I enjoy learning by building, experimenting, and solving problems one step at a time.<br><br>🧠 Logic Meets Creativity — Beyond programming, I write Hindi and Urdu shayari and poetry. I believe engineering brings structure to ideas, while creativity gives them expression.<br><br>🌿 Life Beyond the Screen — You'll find me enjoying nature, playing chess or badminton, singing, or writing poetry. I value a balanced life where strategic thinking, physical activity, and creative expression coexist.<br><br>🌱 Always Learning, Always Building — Exploring new technologies, developing meaningful projects, and growing as an engineer and entrepreneur. I'm open to collaborations, freelance web development, ECE projects, and connecting with people who love building things that matter.
 
+## 🏆 My Codeforces Statistics
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nehal056)](https://codeforces.com/profile/nehal056)
+
+[![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=nehal056)](https://codeforces.com/profile/nehal056)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nehal_0103) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nehal-agarwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nehal@spicen.in) 
